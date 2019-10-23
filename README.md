@@ -1,0 +1,1 @@
+# Javascript notification system without Framework
